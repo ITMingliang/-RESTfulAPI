@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "ProjectMap": {
+    "0d28dbb1-35a0-46b9-bcbc-9cf4145d1aed": {
+      "ProjectGuid": "0d28dbb1-35a0-46b9-bcbc-9cf4145d1aed",
+      "DisplayName": "ThreeApi",
+      "ColorIndex": 0
+    }
+  },
+  "NextColorIndex": 1
+}
